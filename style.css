@@ -2,8 +2,8 @@ body{
     background:
     /* top, transparent red, faked with gradient */ 
     linear-gradient(
-        rgba(70, 56, 26, 0.205), 
-      rgba(70, 57, 29, 0.205)
+        rgba(70, 56, 26, 0.151), 
+      rgba(70, 57, 29, 0.151)
     ),
     /* bottom, image */
     url(img/bg.png);
@@ -39,7 +39,7 @@ h3, h5 {
 }
 
 span{
-    color:#0b574a;
+    color:#076e5d;
 }
 
 img{
